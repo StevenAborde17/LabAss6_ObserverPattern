@@ -30,7 +30,7 @@ Requirements:
   ![alt text](image.png)
 
   ## Output
-  === News Notification on Real-Time ===
+=== News Notification on Real-Time ===
 
  --New Subscribers-- 
 Jackson subscribed to TV5 News
