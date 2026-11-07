@@ -27,3 +27,23 @@ Requirements:
     - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
   ## UML Diagram
+  ![alt text](image.png)
+
+  ## Output
+  === News Notification on Real-Time ===
+
+ --New Subscribers-- 
+Jackson subscribed to TV5 News
+Emily subscribed to TV5 News
+
+ --News Published--
+Jackson received news from TV5 News: The Asean Summit 2026 will be held in the Philippines.
+Emily received news from TV5 News: The Asean Summit 2026 will be held in the Philippines.
+
+ --User Subscription Status-- 
+Jacob subscribed to TV5 News
+Emily unsubscribed from TV5 News
+
+ --Latest News-- 
+Jackson received news from TV5 News: Rodil Zalameda is the new Chief Justice of the Supreme Court of the Philippines.
+Jacob received news from TV5 News: Rodil Zalameda is the new Chief Justice of the Supreme Court of the Philippines.
